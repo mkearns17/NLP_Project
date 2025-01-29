@@ -1,7 +1,7 @@
 # Natural Language Processing - Apple Sentiment
 by Michael Kearns
 
-![img](./images/apple.png)
+![img](./images/apple.jpeg)
 
 # Business Understanding
 
