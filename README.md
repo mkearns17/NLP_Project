@@ -92,4 +92,11 @@ The dataset only contained posts from a specific time period. The model is not t
 * Consider incorporating Apple reviews on other websites.
 * Review posts that are classified as Critical to determine whether customers want to continue to buy Apple products from TSC.
 
-
+## Repository Structure
+```
+├── data
+├── images
+├── README.md
+├── presentation.pdf
+└── notebook.ipynb
+```
