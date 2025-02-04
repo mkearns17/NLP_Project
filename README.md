@@ -5,7 +5,7 @@ by Michael Kearns
 
 # Business Understanding
 
-Customer relations and approval is highly valued at the Tech Sales Company (TSC). Currently, TSC sells Apple products and we want to be sure if we should continue to market and supply Apple products to our customers. If customers no longer like Apple, we want to separate ourselves from the brand and show our loyalty to our customers and promote other products. To track what customers do not like about Apple, we plan to develop a natural language processing model that can identify if a customer's post is critical and should be reviewed later. Non critical posts will be considered posts that do not provide negative or useful information that can help show what our customers do not like about Apple. 
+Customer relations and approval is highly valued at the Tech Sales Company (TSC). Currently, TSC sells Apple products and we want to decide if we should continue to market and supply Apple products to our customers. If customers no longer like Apple, we want to separate ourselves from the brand and show our loyalty to our customers and promote other products. To track what customers do not like about Apple, we plan to develop a natural language processing model that can identify if a customer's post is critical and should be reviewed later. Non critical posts will be considered posts that do not provide negative or useful information that can help show what our customers do not like about Apple. 
 
 # Data Understanding
 
