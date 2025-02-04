@@ -88,7 +88,7 @@ The dataset only contained posts from a specific time period. The model is not t
 
 ## Next Steps
 
-* Evaluate the model yearly to ensure the the model has been trained on information that is relevant to current Appple products and current customer sentiment.
+* Evaluate the model yearly to ensure the the model has been trained on information that is relevant to current Apple products and current customer sentiment.
 * Consider incorporating Apple reviews on other websites.
 * Review posts that are classified as Critical to determine whether customers want to continue to buy Apple products from TSC.
 
